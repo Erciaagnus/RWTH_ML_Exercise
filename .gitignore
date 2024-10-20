@@ -21,3 +21,10 @@ logs/**
 
 #devel
 devel/**
+
+#environment
+.venv/bin/**
+.venv/lib/**
+.venv/lib64/**
+.venv/share/**
+.venv/include/**
